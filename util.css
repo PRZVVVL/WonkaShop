@@ -1,0 +1,89 @@
+
+.d-none {
+    display: none;
+}
+.bg-none {
+    background: none;
+}
+.pb-30 {
+    padding-bottom: 30px;
+}
+.pb-15 {
+    padding-bottom: 15px;
+}
+.pt-58 {
+    padding-top: 58px ;
+}
+.pt-30 {
+    padding-top: 30px ;
+}
+.pl-pr-15 {
+    padding: 0 15px 0 15px;
+}
+.pb-20 {
+    padding: 0 15px 20px 15px;
+}
+.pb-50 {
+    padding-bottom: 50px;
+}
+.pt-60 {
+    padding-top: 60px;
+}
+.pt-pb-60 {
+    padding: 60px 0;
+}
+.pt-pb-30 {
+    padding: 30px 0;
+}
+.pt-pb-30-80 {
+    padding: 30px 0 80px 0;
+}
+.pb-100 {
+    padding-bottom: 100px;
+}
+.pt-50 {
+    padding-top: 50px;
+}
+.pt-pb-100-30 {
+    padding: 100px 0 30px 0;
+}
+.pt-100 {
+    padding-top: 100px;
+}
+.pt-pb-100 {
+    padding: 100px 0;
+}
+.pt
+.pt-pb-60 {
+    padding: 60px 0 60px 0;
+}
+.pb-pt-60-30 {
+    padding: 60px 0 30px 0;
+}
+.bg-s-100 {
+    background-size: 100%;
+}
+.bg-s-120 {
+    background-size: 120%;
+}
+.bg-s-150 {
+    background-size: 150%;
+}
+.btn-primaryy {
+    padding: 15px !important;
+    background: -webkit-linear-gradient(0deg, #59088a 0%, #ae29ff 100%);
+    color: #fff !important;
+    
+    text-decoration: none !important;
+    text-transform: uppercase;
+    border-radius: 9px;
+}
+.btn-primaryy:hover {
+    border: 1px solid #59088a !important;
+    color: #59088a !important;
+    background: none !important;
+}
+.pos-a {
+    position: absolute;
+}
+
